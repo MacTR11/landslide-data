@@ -1,0 +1,2137 @@
+{
+ "format": 1,
+ "generated": "2026-10-23T13:55:08Z",
+ "seats": {
+  "source": "UK Parliament Members API",
+  "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
+  "holders": {
+   "Aberafan Maesteg": {
+    "party": "labour"
+   },
+   "Aberdeen North": {
+    "party": "snp"
+   },
+   "Aberdeen South": {
+    "party": "conservative",
+    "byElection": "2026-06-18"
+   },
+   "Aberdeenshire North and Moray East": {
+    "party": "snp"
+   },
+   "Airdrie and Shotts": {
+    "party": "labour"
+   },
+   "Aldershot": {
+    "party": "labour"
+   },
+   "Aldridge-Brownhills": {
+    "party": "conservative"
+   },
+   "Alloa and Grangemouth": {
+    "party": "labour"
+   },
+   "Altrincham and Sale West": {
+    "party": "labour"
+   },
+   "Alyn and Deeside": {
+    "party": "labour"
+   },
+   "Amber Valley": {
+    "party": "labour"
+   },
+   "Angus and Perthshire Glens": {
+    "party": "snp"
+   },
+   "Arbroath and Broughty Ferry": {
+    "party": "snp",
+    "byElection": "2026-06-18"
+   },
+   "Argyll, Bute and South Lochaber": {
+    "party": "snp"
+   },
+   "Arundel and South Downs": {
+    "party": "conservative"
+   },
+   "Ashfield": {
+    "party": "reform"
+   },
+   "Ashford": {
+    "party": "labour"
+   },
+   "Ashton-under-Lyne": {
+    "party": "labour"
+   },
+   "Aylesbury": {
+    "party": "labour"
+   },
+   "Ayr, Carrick and Cumnock": {
+    "party": "labour"
+   },
+   "Banbury": {
+    "party": "labour"
+   },
+   "Bangor Aberconwy": {
+    "party": "labour"
+   },
+   "Barking": {
+    "party": "labour"
+   },
+   "Barnsley North": {
+    "party": "labour"
+   },
+   "Barnsley South": {
+    "party": "labour"
+   },
+   "Barrow and Furness": {
+    "party": "labour"
+   },
+   "Basildon and Billericay": {
+    "party": "conservative"
+   },
+   "Basingstoke": {
+    "party": "labour"
+   },
+   "Bassetlaw": {
+    "party": "labour"
+   },
+   "Bath": {
+    "party": "libDem"
+   },
+   "Bathgate and Linlithgow": {
+    "party": "labour"
+   },
+   "Battersea": {
+    "party": "labour"
+   },
+   "Beaconsfield": {
+    "party": "conservative"
+   },
+   "Beckenham and Penge": {
+    "party": "labour"
+   },
+   "Bedford": {
+    "party": "labour"
+   },
+   "Belfast East": {
+    "party": "dup"
+   },
+   "Belfast North": {
+    "party": "sinnFein"
+   },
+   "Belfast South and Mid Down": {
+    "party": "sdlp"
+   },
+   "Belfast West": {
+    "party": "sinnFein"
+   },
+   "Bermondsey and Old Southwark": {
+    "party": "labour"
+   },
+   "Berwickshire, Roxburgh and Selkirk": {
+    "party": "conservative"
+   },
+   "Bethnal Green and Stepney": {
+    "party": "labour"
+   },
+   "Beverley and Holderness": {
+    "party": "conservative"
+   },
+   "Bexhill and Battle": {
+    "party": "conservative"
+   },
+   "Bexleyheath and Crayford": {
+    "party": "labour"
+   },
+   "Bicester and Woodstock": {
+    "party": "libDem"
+   },
+   "Birkenhead": {
+    "party": "labour"
+   },
+   "Birmingham Edgbaston": {
+    "party": "labour"
+   },
+   "Birmingham Erdington": {
+    "party": "labour"
+   },
+   "Birmingham Hall Green and Moseley": {
+    "party": "labour"
+   },
+   "Birmingham Hodge Hill and Solihull North": {
+    "party": "labour"
+   },
+   "Birmingham Ladywood": {
+    "party": "labour"
+   },
+   "Birmingham Northfield": {
+    "party": "labour"
+   },
+   "Birmingham Perry Barr": {
+    "party": "independent"
+   },
+   "Birmingham Selly Oak": {
+    "party": "labour"
+   },
+   "Birmingham Yardley": {
+    "party": "labour"
+   },
+   "Bishop Auckland": {
+    "party": "labour"
+   },
+   "Blackburn": {
+    "party": "independent"
+   },
+   "Blackley and Middleton South": {
+    "party": "labour"
+   },
+   "Blackpool North and Fleetwood": {
+    "party": "labour"
+   },
+   "Blackpool South": {
+    "party": "labour"
+   },
+   "Blaenau Gwent and Rhymney": {
+    "party": "labour"
+   },
+   "Blaydon and Consett": {
+    "party": "labour"
+   },
+   "Blyth and Ashington": {
+    "party": "labour"
+   },
+   "Bognor Regis and Littlehampton": {
+    "party": "conservative"
+   },
+   "Bolsover": {
+    "party": "labour"
+   },
+   "Bolton North East": {
+    "party": "labour"
+   },
+   "Bolton South and Walkden": {
+    "party": "labour"
+   },
+   "Bolton West": {
+    "party": "labour"
+   },
+   "Bootle": {
+    "party": "labour"
+   },
+   "Boston and Skegness": {
+    "party": "reform"
+   },
+   "Bournemouth East": {
+    "party": "labour"
+   },
+   "Bournemouth West": {
+    "party": "labour"
+   },
+   "Bracknell": {
+    "party": "labour"
+   },
+   "Bradford East": {
+    "party": "labour"
+   },
+   "Bradford South": {
+    "party": "labour"
+   },
+   "Bradford West": {
+    "party": "labour"
+   },
+   "Braintree": {
+    "party": "conservative"
+   },
+   "Brecon, Radnor and Cwm Tawe": {
+    "party": "libDem"
+   },
+   "Brent East": {
+    "party": "labour"
+   },
+   "Brent West": {
+    "party": "labour"
+   },
+   "Brentford and Isleworth": {
+    "party": "labour"
+   },
+   "Brentwood and Ongar": {
+    "party": "conservative"
+   },
+   "Bridgend": {
+    "party": "labour"
+   },
+   "Bridgwater": {
+    "party": "conservative"
+   },
+   "Bridlington and The Wolds": {
+    "party": "conservative"
+   },
+   "Brigg and Immingham": {
+    "party": "conservative"
+   },
+   "Brighton Kemptown and Peacehaven": {
+    "party": "labour"
+   },
+   "Brighton Pavilion": {
+    "party": "green"
+   },
+   "Bristol Central": {
+    "party": "green"
+   },
+   "Bristol East": {
+    "party": "labour"
+   },
+   "Bristol North East": {
+    "party": "labour"
+   },
+   "Bristol North West": {
+    "party": "labour"
+   },
+   "Bristol South": {
+    "party": "labour"
+   },
+   "Broadland and Fakenham": {
+    "party": "conservative"
+   },
+   "Bromley and Biggin Hill": {
+    "party": "conservative"
+   },
+   "Bromsgrove": {
+    "party": "conservative"
+   },
+   "Broxbourne": {
+    "party": "conservative"
+   },
+   "Broxtowe": {
+    "party": "labour"
+   },
+   "Buckingham and Bletchley": {
+    "party": "labour"
+   },
+   "Burnley": {
+    "party": "labour"
+   },
+   "Burton and Uttoxeter": {
+    "party": "labour"
+   },
+   "Bury North": {
+    "party": "labour"
+   },
+   "Bury South": {
+    "party": "labour"
+   },
+   "Bury St Edmunds and Stowmarket": {
+    "party": "labour"
+   },
+   "Caerfyrddin": {
+    "party": "plaid"
+   },
+   "Caerphilly": {
+    "party": "labour"
+   },
+   "Caithness, Sutherland and Easter Ross": {
+    "party": "libDem"
+   },
+   "Calder Valley": {
+    "party": "labour"
+   },
+   "Camborne and Redruth": {
+    "party": "independent"
+   },
+   "Cambridge": {
+    "party": "labour"
+   },
+   "Cannock Chase": {
+    "party": "labour"
+   },
+   "Canterbury": {
+    "party": "independent"
+   },
+   "Cardiff East": {
+    "party": "labour"
+   },
+   "Cardiff North": {
+    "party": "labour"
+   },
+   "Cardiff South and Penarth": {
+    "party": "labour"
+   },
+   "Cardiff West": {
+    "party": "labour"
+   },
+   "Carlisle": {
+    "party": "labour"
+   },
+   "Carshalton and Wallington": {
+    "party": "libDem"
+   },
+   "Castle Point": {
+    "party": "conservative"
+   },
+   "Central Ayrshire": {
+    "party": "labour"
+   },
+   "Central Devon": {
+    "party": "conservative"
+   },
+   "Central Suffolk and North Ipswich": {
+    "party": "conservative"
+   },
+   "Ceredigion Preseli": {
+    "party": "plaid"
+   },
+   "Chatham and Aylesford": {
+    "party": "labour"
+   },
+   "Cheadle": {
+    "party": "libDem"
+   },
+   "Chelmsford": {
+    "party": "libDem"
+   },
+   "Chelsea and Fulham": {
+    "party": "labour"
+   },
+   "Cheltenham": {
+    "party": "libDem"
+   },
+   "Chesham and Amersham": {
+    "party": "libDem"
+   },
+   "Chester North and Neston": {
+    "party": "labour"
+   },
+   "Chester South and Eddisbury": {
+    "party": "conservative"
+   },
+   "Chesterfield": {
+    "party": "labour"
+   },
+   "Chichester": {
+    "party": "libDem"
+   },
+   "Chingford and Woodford Green": {
+    "party": "conservative"
+   },
+   "Chippenham": {
+    "party": "libDem"
+   },
+   "Chipping Barnet": {
+    "party": "labour"
+   },
+   "Chorley": {
+    "party": "speaker"
+   },
+   "Christchurch": {
+    "party": "conservative"
+   },
+   "Cities of London and Westminster": {
+    "party": "labour"
+   },
+   "City of Durham": {
+    "party": "labour"
+   },
+   "Clacton": {
+    "party": "reform",
+    "byElection": "2026-08-13"
+   },
+   "Clapham and Brixton Hill": {
+    "party": "labour"
+   },
+   "Clwyd East": {
+    "party": "labour"
+   },
+   "Clwyd North": {
+    "party": "labour"
+   },
+   "Coatbridge and Bellshill": {
+    "party": "labour"
+   },
+   "Colchester": {
+    "party": "labour"
+   },
+   "Colne Valley": {
+    "party": "labour"
+   },
+   "Congleton": {
+    "party": "labour"
+   },
+   "Corby and East Northamptonshire": {
+    "party": "labour"
+   },
+   "Coventry East": {
+    "party": "labour"
+   },
+   "Coventry North West": {
+    "party": "labour"
+   },
+   "Coventry South": {
+    "party": "yourParty"
+   },
+   "Cowdenbeath and Kirkcaldy": {
+    "party": "labour"
+   },
+   "Cramlington and Killingworth": {
+    "party": "labour"
+   },
+   "Crawley": {
+    "party": "labour"
+   },
+   "Crewe and Nantwich": {
+    "party": "labour"
+   },
+   "Croydon East": {
+    "party": "labour"
+   },
+   "Croydon South": {
+    "party": "conservative"
+   },
+   "Croydon West": {
+    "party": "labour"
+   },
+   "Cumbernauld and Kirkintilloch": {
+    "party": "labour"
+   },
+   "Dagenham and Rainham": {
+    "party": "labour"
+   },
+   "Darlington": {
+    "party": "labour"
+   },
+   "Dartford": {
+    "party": "labour"
+   },
+   "Daventry": {
+    "party": "conservative"
+   },
+   "Derby North": {
+    "party": "labour"
+   },
+   "Derby South": {
+    "party": "labour"
+   },
+   "Derbyshire Dales": {
+    "party": "labour"
+   },
+   "Dewsbury and Batley": {
+    "party": "independent"
+   },
+   "Didcot and Wantage": {
+    "party": "libDem"
+   },
+   "Doncaster Central": {
+    "party": "labour"
+   },
+   "Doncaster East and the Isle of Axholme": {
+    "party": "labour"
+   },
+   "Doncaster North": {
+    "party": "labour"
+   },
+   "Dorking and Horley": {
+    "party": "libDem"
+   },
+   "Dover and Deal": {
+    "party": "labour"
+   },
+   "Droitwich and Evesham": {
+    "party": "conservative"
+   },
+   "Dudley": {
+    "party": "labour"
+   },
+   "Dulwich and West Norwood": {
+    "party": "labour"
+   },
+   "Dumfries and Galloway": {
+    "party": "conservative"
+   },
+   "Dumfriesshire, Clydesdale and Tweeddale": {
+    "party": "conservative"
+   },
+   "Dundee Central": {
+    "party": "snp"
+   },
+   "Dunfermline and Dollar": {
+    "party": "labour"
+   },
+   "Dunstable and Leighton Buzzard": {
+    "party": "labour"
+   },
+   "Dwyfor Meirionnydd": {
+    "party": "plaid"
+   },
+   "Ealing Central and Acton": {
+    "party": "labour"
+   },
+   "Ealing North": {
+    "party": "labour"
+   },
+   "Ealing Southall": {
+    "party": "labour"
+   },
+   "Earley and Woodley": {
+    "party": "labour"
+   },
+   "Easington": {
+    "party": "labour"
+   },
+   "East Antrim": {
+    "party": "dup"
+   },
+   "East Grinstead and Uckfield": {
+    "party": "conservative"
+   },
+   "East Ham": {
+    "party": "labour"
+   },
+   "East Hampshire": {
+    "party": "conservative"
+   },
+   "East Kilbride and Strathaven": {
+    "party": "labour"
+   },
+   "East Londonderry": {
+    "party": "dup"
+   },
+   "East Renfrewshire": {
+    "party": "labour"
+   },
+   "East Surrey": {
+    "party": "conservative"
+   },
+   "East Thanet": {
+    "party": "labour"
+   },
+   "East Wiltshire": {
+    "party": "reform"
+   },
+   "East Worthing and Shoreham": {
+    "party": "labour"
+   },
+   "Eastbourne": {
+    "party": "libDem"
+   },
+   "Eastleigh": {
+    "party": "libDem"
+   },
+   "Edinburgh East and Musselburgh": {
+    "party": "labour"
+   },
+   "Edinburgh North and Leith": {
+    "party": "labour"
+   },
+   "Edinburgh South": {
+    "party": "labour"
+   },
+   "Edinburgh South West": {
+    "party": "labour"
+   },
+   "Edinburgh West": {
+    "party": "libDem"
+   },
+   "Edmonton and Winchmore Hill": {
+    "party": "labour"
+   },
+   "Ellesmere Port and Bromborough": {
+    "party": "labour"
+   },
+   "Eltham and Chislehurst": {
+    "party": "labour"
+   },
+   "Ely and East Cambridgeshire": {
+    "party": "libDem"
+   },
+   "Enfield North": {
+    "party": "labour"
+   },
+   "Epping Forest": {
+    "party": "conservative"
+   },
+   "Epsom and Ewell": {
+    "party": "libDem"
+   },
+   "Erewash": {
+    "party": "labour"
+   },
+   "Erith and Thamesmead": {
+    "party": "labour"
+   },
+   "Esher and Walton": {
+    "party": "libDem"
+   },
+   "Exeter": {
+    "party": "labour"
+   },
+   "Exmouth and Exeter East": {
+    "party": "conservative"
+   },
+   "Falkirk": {
+    "party": "labour"
+   },
+   "Fareham and Waterlooville": {
+    "party": "reform"
+   },
+   "Farnham and Bordon": {
+    "party": "conservative"
+   },
+   "Faversham and Mid Kent": {
+    "party": "conservative"
+   },
+   "Feltham and Heston": {
+    "party": "labour"
+   },
+   "Fermanagh and South Tyrone": {
+    "party": "sinnFein"
+   },
+   "Filton and Bradley Stoke": {
+    "party": "labour"
+   },
+   "Finchley and Golders Green": {
+    "party": "labour"
+   },
+   "Folkestone and Hythe": {
+    "party": "labour"
+   },
+   "Forest of Dean": {
+    "party": "labour"
+   },
+   "Foyle": {
+    "party": "sdlp"
+   },
+   "Frome and East Somerset": {
+    "party": "libDem"
+   },
+   "Fylde": {
+    "party": "conservative"
+   },
+   "Gainsborough": {
+    "party": "conservative"
+   },
+   "Gateshead Central and Whickham": {
+    "party": "labour"
+   },
+   "Gedling": {
+    "party": "labour"
+   },
+   "Gillingham and Rainham": {
+    "party": "labour"
+   },
+   "Glasgow East": {
+    "party": "labour"
+   },
+   "Glasgow North": {
+    "party": "labour"
+   },
+   "Glasgow North East": {
+    "party": "labour"
+   },
+   "Glasgow South": {
+    "party": "labour"
+   },
+   "Glasgow South West": {
+    "party": "labour"
+   },
+   "Glasgow West": {
+    "party": "labour"
+   },
+   "Glastonbury and Somerton": {
+    "party": "libDem"
+   },
+   "Glenrothes and Mid Fife": {
+    "party": "labour"
+   },
+   "Gloucester": {
+    "party": "labour"
+   },
+   "Godalming and Ash": {
+    "party": "conservative"
+   },
+   "Goole and Pocklington": {
+    "party": "conservative"
+   },
+   "Gordon and Buchan": {
+    "party": "conservative"
+   },
+   "Gorton and Denton": {
+    "party": "green",
+    "byElection": "2026-02-26"
+   },
+   "Gosport": {
+    "party": "conservative"
+   },
+   "Gower": {
+    "party": "labour"
+   },
+   "Grantham and Bourne": {
+    "party": "conservative"
+   },
+   "Gravesham": {
+    "party": "labour"
+   },
+   "Great Grimsby and Cleethorpes": {
+    "party": "labour"
+   },
+   "Great Yarmouth": {
+    "party": "restoreBritain"
+   },
+   "Greenwich and Woolwich": {
+    "party": "labour"
+   },
+   "Guildford": {
+    "party": "libDem"
+   },
+   "Hackney North and Stoke Newington": {
+    "party": "labour"
+   },
+   "Hackney South and Shoreditch": {
+    "party": "labour"
+   },
+   "Halesowen": {
+    "party": "labour"
+   },
+   "Halifax": {
+    "party": "labour"
+   },
+   "Hamble Valley": {
+    "party": "conservative"
+   },
+   "Hamilton and Clyde Valley": {
+    "party": "labour"
+   },
+   "Hammersmith and Chiswick": {
+    "party": "labour"
+   },
+   "Hampstead and Highgate": {
+    "party": "labour"
+   },
+   "Harborough, Oadby and Wigston": {
+    "party": "conservative"
+   },
+   "Harlow": {
+    "party": "labour"
+   },
+   "Harpenden and Berkhamsted": {
+    "party": "libDem"
+   },
+   "Harrogate and Knaresborough": {
+    "party": "libDem"
+   },
+   "Harrow East": {
+    "party": "conservative"
+   },
+   "Harrow West": {
+    "party": "labour"
+   },
+   "Hartlepool": {
+    "party": "labour"
+   },
+   "Harwich and North Essex": {
+    "party": "conservative"
+   },
+   "Hastings and Rye": {
+    "party": "labour"
+   },
+   "Havant": {
+    "party": "conservative"
+   },
+   "Hayes and Harlington": {
+    "party": "labour"
+   },
+   "Hazel Grove": {
+    "party": "libDem"
+   },
+   "Hemel Hempstead": {
+    "party": "labour"
+   },
+   "Hendon": {
+    "party": "labour"
+   },
+   "Henley and Thame": {
+    "party": "libDem"
+   },
+   "Hereford and South Herefordshire": {
+    "party": "conservative"
+   },
+   "Herne Bay and Sandwich": {
+    "party": "conservative"
+   },
+   "Hertford and Stortford": {
+    "party": "labour"
+   },
+   "Hertsmere": {
+    "party": "conservative"
+   },
+   "Hexham": {
+    "party": "labour"
+   },
+   "Heywood and Middleton North": {
+    "party": "labour"
+   },
+   "High Peak": {
+    "party": "labour"
+   },
+   "Hinckley and Bosworth": {
+    "party": "conservative"
+   },
+   "Hitchin": {
+    "party": "labour"
+   },
+   "Holborn and St Pancras": {
+    "party": "labour",
+    "byElection": "2026-10-08"
+   },
+   "Honiton and Sidmouth": {
+    "party": "libDem"
+   },
+   "Hornchurch and Upminster": {
+    "party": "conservative"
+   },
+   "Hornsey and Friern Barnet": {
+    "party": "labour"
+   },
+   "Horsham": {
+    "party": "libDem"
+   },
+   "Houghton and Sunderland South": {
+    "party": "labour"
+   },
+   "Hove and Portslade": {
+    "party": "labour"
+   },
+   "Huddersfield": {
+    "party": "labour"
+   },
+   "Huntingdon": {
+    "party": "conservative"
+   },
+   "Hyndburn": {
+    "party": "labour"
+   },
+   "Ilford North": {
+    "party": "labour"
+   },
+   "Ilford South": {
+    "party": "labour"
+   },
+   "Inverclyde and Renfrewshire West": {
+    "party": "labour"
+   },
+   "Inverness, Skye and West Ross-shire": {
+    "party": "libDem"
+   },
+   "Ipswich": {
+    "party": "labour"
+   },
+   "Isle of Wight East": {
+    "party": "conservative"
+   },
+   "Isle of Wight West": {
+    "party": "labour"
+   },
+   "Islington North": {
+    "party": "yourParty"
+   },
+   "Islington South and Finsbury": {
+    "party": "labour"
+   },
+   "Jarrow and Gateshead East": {
+    "party": "labour"
+   },
+   "Keighley and Ilkley": {
+    "party": "conservative"
+   },
+   "Kenilworth and Southam": {
+    "party": "conservative"
+   },
+   "Kensington and Bayswater": {
+    "party": "labour"
+   },
+   "Kettering": {
+    "party": "labour"
+   },
+   "Kilmarnock and Loudoun": {
+    "party": "labour"
+   },
+   "Kingston and Surbiton": {
+    "party": "libDem"
+   },
+   "Kingston upon Hull East": {
+    "party": "labour"
+   },
+   "Kingston upon Hull North and Cottingham": {
+    "party": "labour"
+   },
+   "Kingston upon Hull West and Haltemprice": {
+    "party": "labour"
+   },
+   "Kingswinford and South Staffordshire": {
+    "party": "conservative"
+   },
+   "Knowsley": {
+    "party": "labour"
+   },
+   "Lagan Valley": {
+    "party": "alliance"
+   },
+   "Lancaster and Wyre": {
+    "party": "labour"
+   },
+   "Leeds Central and Headingley": {
+    "party": "labour"
+   },
+   "Leeds East": {
+    "party": "labour"
+   },
+   "Leeds North East": {
+    "party": "labour"
+   },
+   "Leeds North West": {
+    "party": "labour"
+   },
+   "Leeds South": {
+    "party": "labour"
+   },
+   "Leeds South West and Morley": {
+    "party": "labour"
+   },
+   "Leeds West and Pudsey": {
+    "party": "labour"
+   },
+   "Leicester East": {
+    "party": "conservative"
+   },
+   "Leicester South": {
+    "party": "independent"
+   },
+   "Leicester West": {
+    "party": "labour"
+   },
+   "Leigh and Atherton": {
+    "party": "labour"
+   },
+   "Lewes": {
+    "party": "libDem"
+   },
+   "Lewisham East": {
+    "party": "labour"
+   },
+   "Lewisham North": {
+    "party": "labour"
+   },
+   "Lewisham West and East Dulwich": {
+    "party": "labour"
+   },
+   "Leyton and Wanstead": {
+    "party": "labour"
+   },
+   "Lichfield": {
+    "party": "labour"
+   },
+   "Lincoln": {
+    "party": "labour"
+   },
+   "Liverpool Garston": {
+    "party": "labour"
+   },
+   "Liverpool Riverside": {
+    "party": "labour"
+   },
+   "Liverpool Walton": {
+    "party": "labour"
+   },
+   "Liverpool Wavertree": {
+    "party": "labour"
+   },
+   "Liverpool West Derby": {
+    "party": "labour"
+   },
+   "Livingston": {
+    "party": "labour"
+   },
+   "Llanelli": {
+    "party": "labour"
+   },
+   "Lothian East": {
+    "party": "labour"
+   },
+   "Loughborough": {
+    "party": "labour"
+   },
+   "Louth and Horncastle": {
+    "party": "conservative"
+   },
+   "Lowestoft": {
+    "party": "labour"
+   },
+   "Luton North": {
+    "party": "labour"
+   },
+   "Luton South and South Bedfordshire": {
+    "party": "labour"
+   },
+   "Macclesfield": {
+    "party": "labour"
+   },
+   "Maidenhead": {
+    "party": "libDem"
+   },
+   "Maidstone and Malling": {
+    "party": "conservative"
+   },
+   "Makerfield": {
+    "party": "labour",
+    "byElection": "2026-06-18"
+   },
+   "Maldon": {
+    "party": "conservative"
+   },
+   "Manchester Central": {
+    "party": "labour"
+   },
+   "Manchester Rusholme": {
+    "party": "labour"
+   },
+   "Manchester Withington": {
+    "party": "labour"
+   },
+   "Mansfield": {
+    "party": "labour"
+   },
+   "Melksham and Devizes": {
+    "party": "libDem"
+   },
+   "Melton and Syston": {
+    "party": "conservative"
+   },
+   "Meriden and Solihull East": {
+    "party": "conservative"
+   },
+   "Merthyr Tydfil and Aberdare": {
+    "party": "labour"
+   },
+   "Mid Bedfordshire": {
+    "party": "conservative"
+   },
+   "Mid Buckinghamshire": {
+    "party": "conservative"
+   },
+   "Mid Cheshire": {
+    "party": "labour"
+   },
+   "Mid Derbyshire": {
+    "party": "labour"
+   },
+   "Mid Dorset and North Poole": {
+    "party": "libDem"
+   },
+   "Mid Dunbartonshire": {
+    "party": "libDem"
+   },
+   "Mid Leicestershire": {
+    "party": "conservative"
+   },
+   "Mid Norfolk": {
+    "party": "conservative"
+   },
+   "Mid Sussex": {
+    "party": "libDem"
+   },
+   "Mid Ulster": {
+    "party": "sinnFein"
+   },
+   "Mid and South Pembrokeshire": {
+    "party": "labour"
+   },
+   "Middlesbrough South and East Cleveland": {
+    "party": "labour"
+   },
+   "Middlesbrough and Thornaby East": {
+    "party": "labour"
+   },
+   "Midlothian": {
+    "party": "labour"
+   },
+   "Milton Keynes Central": {
+    "party": "labour"
+   },
+   "Milton Keynes North": {
+    "party": "labour"
+   },
+   "Mitcham and Morden": {
+    "party": "labour"
+   },
+   "Monmouthshire": {
+    "party": "labour"
+   },
+   "Montgomeryshire and Glyndŵr": {
+    "party": "labour"
+   },
+   "Moray West, Nairn and Strathspey": {
+    "party": "snp"
+   },
+   "Morecambe and Lunesdale": {
+    "party": "labour"
+   },
+   "Motherwell, Wishaw and Carluke": {
+    "party": "labour"
+   },
+   "Na h-Eileanan an Iar": {
+    "party": "labour"
+   },
+   "Neath and Swansea East": {
+    "party": "labour"
+   },
+   "New Forest East": {
+    "party": "conservative"
+   },
+   "New Forest West": {
+    "party": "conservative"
+   },
+   "Newark": {
+    "party": "reform"
+   },
+   "Newbury": {
+    "party": "libDem"
+   },
+   "Newcastle upon Tyne Central and West": {
+    "party": "labour"
+   },
+   "Newcastle upon Tyne East and Wallsend": {
+    "party": "labour"
+   },
+   "Newcastle upon Tyne North": {
+    "party": "labour"
+   },
+   "Newcastle-under-Lyme": {
+    "party": "labour"
+   },
+   "Newport East": {
+    "party": "labour"
+   },
+   "Newport West and Islwyn": {
+    "party": "labour"
+   },
+   "Newry and Armagh": {
+    "party": "sinnFein"
+   },
+   "Newton Abbot": {
+    "party": "libDem"
+   },
+   "Newton Aycliffe and Spennymoor": {
+    "party": "labour"
+   },
+   "Normanton and Hemsworth": {
+    "party": "labour"
+   },
+   "North Antrim": {
+    "party": "tuv"
+   },
+   "North Ayrshire and Arran": {
+    "party": "labour"
+   },
+   "North Bedfordshire": {
+    "party": "conservative"
+   },
+   "North Cornwall": {
+    "party": "libDem"
+   },
+   "North Cotswolds": {
+    "party": "conservative"
+   },
+   "North Devon": {
+    "party": "libDem"
+   },
+   "North Dorset": {
+    "party": "conservative"
+   },
+   "North Down": {
+    "party": "independent"
+   },
+   "North Durham": {
+    "party": "labour"
+   },
+   "North East Cambridgeshire": {
+    "party": "conservative"
+   },
+   "North East Derbyshire": {
+    "party": "labour"
+   },
+   "North East Fife": {
+    "party": "libDem"
+   },
+   "North East Hampshire": {
+    "party": "libDem"
+   },
+   "North East Hertfordshire": {
+    "party": "labour"
+   },
+   "North East Somerset and Hanham": {
+    "party": "independent"
+   },
+   "North Herefordshire": {
+    "party": "green"
+   },
+   "North Norfolk": {
+    "party": "libDem"
+   },
+   "North Northumberland": {
+    "party": "labour"
+   },
+   "North Shropshire": {
+    "party": "libDem"
+   },
+   "North Somerset": {
+    "party": "labour"
+   },
+   "North Warwickshire and Bedworth": {
+    "party": "labour"
+   },
+   "North West Cambridgeshire": {
+    "party": "labour"
+   },
+   "North West Essex": {
+    "party": "conservative"
+   },
+   "North West Hampshire": {
+    "party": "conservative"
+   },
+   "North West Leicestershire": {
+    "party": "labour"
+   },
+   "North West Norfolk": {
+    "party": "conservative"
+   },
+   "Northampton North": {
+    "party": "labour"
+   },
+   "Northampton South": {
+    "party": "labour"
+   },
+   "Norwich North": {
+    "party": "labour"
+   },
+   "Norwich South": {
+    "party": "labour"
+   },
+   "Nottingham East": {
+    "party": "labour"
+   },
+   "Nottingham North and Kimberley": {
+    "party": "labour"
+   },
+   "Nottingham South": {
+    "party": "labour"
+   },
+   "Nuneaton": {
+    "party": "labour"
+   },
+   "Old Bexley and Sidcup": {
+    "party": "conservative"
+   },
+   "Oldham East and Saddleworth": {
+    "party": "labour"
+   },
+   "Oldham West, Chadderton and Royton": {
+    "party": "labour"
+   },
+   "Orkney and Shetland": {
+    "party": "libDem"
+   },
+   "Orpington": {
+    "party": "conservative"
+   },
+   "Ossett and Denby Dale": {
+    "party": "labour"
+   },
+   "Oxford East": {
+    "party": "labour"
+   },
+   "Oxford West and Abingdon": {
+    "party": "libDem"
+   },
+   "Paisley and Renfrewshire North": {
+    "party": "labour"
+   },
+   "Paisley and Renfrewshire South": {
+    "party": "labour"
+   },
+   "Peckham": {
+    "party": "labour"
+   },
+   "Pendle and Clitheroe": {
+    "party": "labour"
+   },
+   "Penistone and Stocksbridge": {
+    "party": "labour"
+   },
+   "Penrith and Solway": {
+    "party": "labour"
+   },
+   "Perth and Kinross-shire": {
+    "party": "snp"
+   },
+   "Peterborough": {
+    "party": "labour"
+   },
+   "Plymouth Moor View": {
+    "party": "labour"
+   },
+   "Plymouth Sutton and Devonport": {
+    "party": "labour"
+   },
+   "Pontefract, Castleford and Knottingley": {
+    "party": "labour"
+   },
+   "Pontypridd": {
+    "party": "labour"
+   },
+   "Poole": {
+    "party": "labour"
+   },
+   "Poplar and Limehouse": {
+    "party": "labour"
+   },
+   "Portsmouth North": {
+    "party": "labour"
+   },
+   "Portsmouth South": {
+    "party": "labour"
+   },
+   "Preston": {
+    "party": "labour"
+   },
+   "Putney": {
+    "party": "labour"
+   },
+   "Queen's Park and Maida Vale": {
+    "party": "labour"
+   },
+   "Rawmarsh and Conisbrough": {
+    "party": "labour"
+   },
+   "Rayleigh and Wickford": {
+    "party": "conservative"
+   },
+   "Reading Central": {
+    "party": "labour"
+   },
+   "Reading West and Mid Berkshire": {
+    "party": "labour"
+   },
+   "Redcar": {
+    "party": "labour"
+   },
+   "Redditch": {
+    "party": "labour"
+   },
+   "Reigate": {
+    "party": "conservative"
+   },
+   "Rhondda and Ogmore": {
+    "party": "labour"
+   },
+   "Ribble Valley": {
+    "party": "labour"
+   },
+   "Richmond Park": {
+    "party": "libDem"
+   },
+   "Richmond and Northallerton": {
+    "party": "conservative"
+   },
+   "Rochdale": {
+    "party": "labour"
+   },
+   "Rochester and Strood": {
+    "party": "labour"
+   },
+   "Romford": {
+    "party": "reform"
+   },
+   "Romsey and Southampton North": {
+    "party": "conservative"
+   },
+   "Rossendale and Darwen": {
+    "party": "labour"
+   },
+   "Rother Valley": {
+    "party": "labour"
+   },
+   "Rotherham": {
+    "party": "labour"
+   },
+   "Rugby": {
+    "party": "labour"
+   },
+   "Ruislip, Northwood and Pinner": {
+    "party": "conservative"
+   },
+   "Runcorn and Helsby": {
+    "party": "reform",
+    "byElection": "2025-05-01"
+   },
+   "Runnymede and Weybridge": {
+    "party": "conservative"
+   },
+   "Rushcliffe": {
+    "party": "labour"
+   },
+   "Rutherglen": {
+    "party": "labour"
+   },
+   "Rutland and Stamford": {
+    "party": "conservative"
+   },
+   "Salford": {
+    "party": "labour"
+   },
+   "Salisbury": {
+    "party": "conservative"
+   },
+   "Scarborough and Whitby": {
+    "party": "labour"
+   },
+   "Scunthorpe": {
+    "party": "labour"
+   },
+   "Sefton Central": {
+    "party": "labour"
+   },
+   "Selby": {
+    "party": "labour"
+   },
+   "Sevenoaks": {
+    "party": "conservative"
+   },
+   "Sheffield Brightside and Hillsborough": {
+    "party": "labour"
+   },
+   "Sheffield Central": {
+    "party": "labour"
+   },
+   "Sheffield Hallam": {
+    "party": "labour"
+   },
+   "Sheffield Heeley": {
+    "party": "labour"
+   },
+   "Sheffield South East": {
+    "party": "labour"
+   },
+   "Sherwood Forest": {
+    "party": "labour"
+   },
+   "Shipley": {
+    "party": "labour"
+   },
+   "Shrewsbury": {
+    "party": "labour"
+   },
+   "Sittingbourne and Sheppey": {
+    "party": "labour"
+   },
+   "Skipton and Ripon": {
+    "party": "conservative"
+   },
+   "Sleaford and North Hykeham": {
+    "party": "conservative"
+   },
+   "Slough": {
+    "party": "labour"
+   },
+   "Smethwick": {
+    "party": "labour"
+   },
+   "Solihull West and Shirley": {
+    "party": "conservative"
+   },
+   "South Antrim": {
+    "party": "uup"
+   },
+   "South Basildon and East Thurrock": {
+    "party": "independent"
+   },
+   "South Cambridgeshire": {
+    "party": "libDem"
+   },
+   "South Cotswolds": {
+    "party": "libDem"
+   },
+   "South Derbyshire": {
+    "party": "labour"
+   },
+   "South Devon": {
+    "party": "libDem"
+   },
+   "South Dorset": {
+    "party": "labour"
+   },
+   "South Down": {
+    "party": "sinnFein"
+   },
+   "South East Cornwall": {
+    "party": "labour"
+   },
+   "South Holland and The Deepings": {
+    "party": "conservative"
+   },
+   "South Leicestershire": {
+    "party": "conservative"
+   },
+   "South Norfolk": {
+    "party": "labour"
+   },
+   "South Northamptonshire": {
+    "party": "conservative"
+   },
+   "South Ribble": {
+    "party": "labour"
+   },
+   "South Shields": {
+    "party": "labour"
+   },
+   "South Shropshire": {
+    "party": "conservative"
+   },
+   "South Suffolk": {
+    "party": "conservative"
+   },
+   "South West Devon": {
+    "party": "conservative"
+   },
+   "South West Hertfordshire": {
+    "party": "conservative"
+   },
+   "South West Norfolk": {
+    "party": "labour"
+   },
+   "South West Wiltshire": {
+    "party": "conservative"
+   },
+   "Southampton Itchen": {
+    "party": "labour"
+   },
+   "Southampton Test": {
+    "party": "labour"
+   },
+   "Southend East and Rochford": {
+    "party": "independent"
+   },
+   "Southend West and Leigh": {
+    "party": "labour"
+   },
+   "Southgate and Wood Green": {
+    "party": "labour"
+   },
+   "Southport": {
+    "party": "labour"
+   },
+   "Spelthorne": {
+    "party": "conservative"
+   },
+   "Spen Valley": {
+    "party": "labour"
+   },
+   "St Albans": {
+    "party": "libDem"
+   },
+   "St Austell and Newquay": {
+    "party": "labour"
+   },
+   "St Helens North": {
+    "party": "labour"
+   },
+   "St Helens South and Whiston": {
+    "party": "labour"
+   },
+   "St Ives": {
+    "party": "libDem"
+   },
+   "St Neots and Mid Cambridgeshire": {
+    "party": "libDem"
+   },
+   "Stafford": {
+    "party": "labour"
+   },
+   "Staffordshire Moorlands": {
+    "party": "conservative"
+   },
+   "Stalybridge and Hyde": {
+    "party": "labour"
+   },
+   "Stevenage": {
+    "party": "labour"
+   },
+   "Stirling and Strathallan": {
+    "party": "labour"
+   },
+   "Stockport": {
+    "party": "labour"
+   },
+   "Stockton North": {
+    "party": "labour"
+   },
+   "Stockton West": {
+    "party": "conservative"
+   },
+   "Stoke-on-Trent Central": {
+    "party": "labour"
+   },
+   "Stoke-on-Trent North": {
+    "party": "labour"
+   },
+   "Stoke-on-Trent South": {
+    "party": "labour"
+   },
+   "Stone, Great Wyrley and Penkridge": {
+    "party": "conservative"
+   },
+   "Stourbridge": {
+    "party": "labour"
+   },
+   "Strangford": {
+    "party": "dup"
+   },
+   "Stratford and Bow": {
+    "party": "labour"
+   },
+   "Stratford-on-Avon": {
+    "party": "libDem"
+   },
+   "Streatham and Croydon North": {
+    "party": "labour"
+   },
+   "Stretford and Urmston": {
+    "party": "labour"
+   },
+   "Stroud": {
+    "party": "labour"
+   },
+   "Suffolk Coastal": {
+    "party": "labour"
+   },
+   "Sunderland Central": {
+    "party": "labour"
+   },
+   "Surrey Heath": {
+    "party": "libDem"
+   },
+   "Sussex Weald": {
+    "party": "conservative"
+   },
+   "Sutton Coldfield": {
+    "party": "conservative"
+   },
+   "Sutton and Cheam": {
+    "party": "libDem"
+   },
+   "Swansea West": {
+    "party": "labour"
+   },
+   "Swindon North": {
+    "party": "labour"
+   },
+   "Swindon South": {
+    "party": "labour"
+   },
+   "Tamworth": {
+    "party": "labour"
+   },
+   "Tatton": {
+    "party": "conservative"
+   },
+   "Taunton and Wellington": {
+    "party": "libDem"
+   },
+   "Telford": {
+    "party": "labour"
+   },
+   "Tewkesbury": {
+    "party": "independent"
+   },
+   "The Wrekin": {
+    "party": "conservative"
+   },
+   "Thirsk and Malton": {
+    "party": "conservative"
+   },
+   "Thornbury and Yate": {
+    "party": "libDem"
+   },
+   "Thurrock": {
+    "party": "labour"
+   },
+   "Tipton and Wednesbury": {
+    "party": "labour"
+   },
+   "Tiverton and Minehead": {
+    "party": "libDem"
+   },
+   "Tonbridge": {
+    "party": "conservative"
+   },
+   "Tooting": {
+    "party": "labour"
+   },
+   "Torbay": {
+    "party": "libDem"
+   },
+   "Torfaen": {
+    "party": "labour"
+   },
+   "Torridge and Tavistock": {
+    "party": "conservative"
+   },
+   "Tottenham": {
+    "party": "labour"
+   },
+   "Truro and Falmouth": {
+    "party": "labour"
+   },
+   "Tunbridge Wells": {
+    "party": "libDem"
+   },
+   "Twickenham": {
+    "party": "libDem"
+   },
+   "Tynemouth": {
+    "party": "labour"
+   },
+   "Upper Bann": {
+    "party": "dup"
+   },
+   "Uxbridge and South Ruislip": {
+    "party": "labour"
+   },
+   "Vale of Glamorgan": {
+    "party": "labour"
+   },
+   "Vauxhall and Camberwell Green": {
+    "party": "labour"
+   },
+   "Wakefield and Rothwell": {
+    "party": "labour"
+   },
+   "Wallasey": {
+    "party": "labour"
+   },
+   "Walsall and Bloxwich": {
+    "party": "labour"
+   },
+   "Walthamstow": {
+    "party": "labour"
+   },
+   "Warrington North": {
+    "party": "labour"
+   },
+   "Warrington South": {
+    "party": "labour"
+   },
+   "Warwick and Leamington": {
+    "party": "labour"
+   },
+   "Washington and Gateshead South": {
+    "party": "labour"
+   },
+   "Watford": {
+    "party": "labour"
+   },
+   "Waveney Valley": {
+    "party": "green"
+   },
+   "Weald of Kent": {
+    "party": "conservative"
+   },
+   "Wellingborough and Rushden": {
+    "party": "labour"
+   },
+   "Wells and Mendip Hills": {
+    "party": "libDem"
+   },
+   "Welwyn Hatfield": {
+    "party": "labour"
+   },
+   "West Aberdeenshire and Kincardine": {
+    "party": "conservative"
+   },
+   "West Bromwich": {
+    "party": "labour"
+   },
+   "West Dorset": {
+    "party": "libDem"
+   },
+   "West Dunbartonshire": {
+    "party": "labour"
+   },
+   "West Ham and Beckton": {
+    "party": "labour"
+   },
+   "West Lancashire": {
+    "party": "labour"
+   },
+   "West Suffolk": {
+    "party": "conservative"
+   },
+   "West Tyrone": {
+    "party": "sinnFein"
+   },
+   "West Worcestershire": {
+    "party": "conservative"
+   },
+   "Westmorland and Lonsdale": {
+    "party": "libDem"
+   },
+   "Weston-super-Mare": {
+    "party": "labour"
+   },
+   "Wetherby and Easingwold": {
+    "party": "conservative"
+   },
+   "Whitehaven and Workington": {
+    "party": "labour"
+   },
+   "Widnes and Halewood": {
+    "party": "labour"
+   },
+   "Wigan": {
+    "party": "labour"
+   },
+   "Wimbledon": {
+    "party": "libDem"
+   },
+   "Winchester": {
+    "party": "libDem"
+   },
+   "Windsor": {
+    "party": "conservative"
+   },
+   "Wirral West": {
+    "party": "labour"
+   },
+   "Witham": {
+    "party": "conservative"
+   },
+   "Witney": {
+    "party": "libDem"
+   },
+   "Woking": {
+    "party": "libDem"
+   },
+   "Wokingham": {
+    "party": "libDem"
+   },
+   "Wolverhampton North East": {
+    "party": "labour"
+   },
+   "Wolverhampton South East": {
+    "party": "labour"
+   },
+   "Wolverhampton West": {
+    "party": "labour"
+   },
+   "Worcester": {
+    "party": "labour"
+   },
+   "Worsley and Eccles": {
+    "party": "labour"
+   },
+   "Worthing West": {
+    "party": "labour"
+   },
+   "Wrexham": {
+    "party": "labour"
+   },
+   "Wycombe": {
+    "party": "labour"
+   },
+   "Wyre Forest": {
+    "party": "conservative"
+   },
+   "Wythenshawe and Sale East": {
+    "party": "labour"
+   },
+   "Yeovil": {
+    "party": "libDem"
+   },
+   "Ynys Môn": {
+    "party": "plaid"
+   },
+   "York Central": {
+    "party": "labour"
+   },
+   "York Outer": {
+    "party": "labour"
+   }
+  }
+ },
+ "polls": {
+  "source": "Opinion polling for the next United Kingdom general election, Wikipedia (CC BY-SA 4.0), from the pollsters' published figures",
+  "sourceURL": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
+  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 22 October 2026, averaged with equal weight.",
+  "from": "2026-10-09",
+  "to": "2026-10-22",
+  "average": {
+   "labour": 27.3,
+   "conservative": 20.8,
+   "reform": 21.7,
+   "libDem": 9.4,
+   "green": 9.0,
+   "snp": 2.4,
+   "plaid": 1.0,
+   "restoreBritain": 5.4,
+   "yourParty": 0.0,
+   "others": 3.0
+  },
+  "polls": [
+   {
+    "pollster": "Find Out Now",
+    "client": "N/A",
+    "start": "2026-10-21",
+    "end": "2026-10-22",
+    "area": "GB",
+    "sample": 2381,
+    "shares": {
+     "labour": 26.0,
+     "conservative": 21.0,
+     "reform": 20.0,
+     "libDem": 9.0,
+     "green": 13.0,
+     "snp": 3.0,
+     "plaid": 1.0,
+     "others": 6.0
+    }
+   },
+   {
+    "pollster": "YouGov",
+    "client": "The Times/Sky News",
+    "start": "2026-10-18",
+    "end": "2026-10-19",
+    "area": "GB",
+    "sample": 2520,
+    "shares": {
+     "labour": 27.0,
+     "conservative": 23.0,
+     "reform": 22.0,
+     "libDem": 11.0,
+     "green": 10.0,
+     "snp": 2.0,
+     "plaid": 1.0,
+     "restoreBritain": 3.0,
+     "others": 1.0,
+     "yourParty": 0.0
+    }
+   },
+   {
+    "pollster": "Deltapoll",
+    "client": "N/A",
+    "start": "2026-10-16",
+    "end": "2026-10-19",
+    "area": "GB",
+    "sample": 2092,
+    "shares": {
+     "labour": 30.0,
+     "conservative": 22.0,
+     "reform": 24.0,
+     "libDem": 7.0,
+     "green": 8.0,
+     "snp": 3.0,
+     "plaid": 1.0,
+     "others": 3.0
+    }
+   },
+   {
+    "pollster": "More in Common",
+    "client": "N/A",
+    "start": "2026-10-16",
+    "end": "2026-10-19",
+    "area": "GB",
+    "sample": 3069,
+    "shares": {
+     "labour": 28.0,
+     "conservative": 23.0,
+     "reform": 22.0,
+     "libDem": 10.0,
+     "green": 8.0,
+     "snp": 3.0,
+     "plaid": 1.0,
+     "restoreBritain": 5.0,
+     "others": 1.0
+    }
+   },
+   {
+    "pollster": "Trajectory Partnership",
+    "client": "N/A",
+    "start": "2026-10-05",
+    "end": "2026-10-14",
+    "area": "GB",
+    "sample": 1473,
+    "shares": {
+     "labour": 30.0,
+     "conservative": 21.0,
+     "reform": 22.0,
+     "libDem": 10.0,
+     "green": 8.0,
+     "snp": 2.0,
+     "plaid": 1.0,
+     "restoreBritain": 6.0,
+     "others": 1.0,
+     "yourParty": 0.0
+    }
+   },
+   {
+    "pollster": "Find Out Now/Electoral Calculus (MRP)",
+    "client": "N/A",
+    "start": "2026-09-22",
+    "end": "2026-10-12",
+    "area": "GB",
+    "sample": 10684,
+    "shares": {
+     "labour": 25.0,
+     "conservative": 19.0,
+     "reform": 22.0,
+     "libDem": 11.0,
+     "green": 9.0,
+     "snp": 3.0,
+     "plaid": 1.0,
+     "restoreBritain": 8.0,
+     "others": 3.0
+    }
+   },
+   {
+    "pollster": "Freshwater Strategy",
+    "client": "City AM",
+    "start": "2026-10-09",
+    "end": "2026-10-11",
+    "area": "GB",
+    "sample": 1235,
+    "shares": {
+     "labour": 29.0,
+     "conservative": 22.0,
+     "reform": 23.0,
+     "libDem": 10.0,
+     "green": 9.0,
+     "snp": 2.0,
+     "others": 5.0
+    }
+   },
+   {
+    "pollster": "Opinium",
+    "client": "The Observer",
+    "start": "2026-10-07",
+    "end": "2026-10-09",
+    "area": "GB",
+    "sample": 2050,
+    "shares": {
+     "labour": 29.0,
+     "conservative": 20.0,
+     "reform": 23.0,
+     "libDem": 9.0,
+     "green": 9.0,
+     "snp": 2.0,
+     "plaid": 1.0,
+     "others": 5.0
+    }
+   }
+  ]
+ }
+}
