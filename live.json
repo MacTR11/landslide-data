@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-24T20:56:38Z",
+ "generated": "2026-10-25T11:44:07Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1971,16 +1971,16 @@
   "from": "2026-10-10",
   "to": "2026-10-23",
   "average": {
-   "labour": 27.3,
-   "conservative": 20.8,
-   "reform": 21.5,
+   "labour": 27.9,
+   "conservative": 21.2,
+   "reform": 21.4,
    "libDem": 9.3,
-   "green": 9.1,
+   "green": 9.0,
    "snp": 2.5,
    "plaid": 1.0,
-   "restoreBritain": 5.3,
+   "restoreBritain": 4.9,
    "yourParty": 0.0,
-   "others": 3.2
+   "others": 2.8
   },
   "polls": [
    {
@@ -2017,6 +2017,25 @@
      "snp": 3.0,
      "plaid": 1.0,
      "others": 6.0
+    }
+   },
+   {
+    "pollster": "Ipsos",
+    "client": "N/A",
+    "start": "2026-10-15",
+    "end": "2026-10-22",
+    "area": "GB",
+    "sample": 1100,
+    "shares": {
+     "labour": 32.0,
+     "conservative": 24.0,
+     "reform": 20.0,
+     "libDem": 9.0,
+     "green": 8.0,
+     "snp": 2.0,
+     "plaid": 1.0,
+     "restoreBritain": 3.0,
+     "others": 0.0
     }
    },
    {
