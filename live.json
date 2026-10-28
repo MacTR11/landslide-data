@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-27T12:23:07Z",
+ "generated": "2026-10-28T13:09:43Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1971,16 +1971,16 @@
   "from": "2026-10-13",
   "to": "2026-10-26",
   "average": {
-   "labour": 28.6,
-   "conservative": 21.5,
-   "reform": 21.1,
-   "libDem": 9.1,
-   "green": 9.1,
-   "snp": 2.5,
+   "labour": 28.5,
+   "conservative": 21.6,
+   "reform": 21.2,
+   "libDem": 9.3,
+   "green": 9.0,
+   "snp": 2.4,
    "plaid": 1.0,
    "restoreBritain": 4.4,
    "yourParty": 0.0,
-   "others": 2.7
+   "others": 2.6
   },
   "polls": [
    {
@@ -2001,6 +2001,25 @@
      "restoreBritain": 4.0,
      "others": 2.0,
      "yourParty": 0.0
+    }
+   },
+   {
+    "pollster": "More in Common",
+    "client": "N/A",
+    "start": "2026-10-23",
+    "end": "2026-10-26",
+    "area": "GB",
+    "sample": 3286,
+    "shares": {
+     "labour": 28.0,
+     "conservative": 24.0,
+     "reform": 23.0,
+     "libDem": 11.0,
+     "green": 7.0,
+     "snp": 2.0,
+     "plaid": 1.0,
+     "restoreBritain": 5.0,
+     "others": 1.0
     }
    },
    {
@@ -2077,25 +2096,6 @@
     }
    },
    {
-    "pollster": "More in Common",
-    "client": "N/A",
-    "start": "2026-10-16",
-    "end": "2026-10-19",
-    "area": "GB",
-    "sample": 3069,
-    "shares": {
-     "labour": 28.0,
-     "conservative": 23.0,
-     "reform": 22.0,
-     "libDem": 10.0,
-     "green": 8.0,
-     "snp": 3.0,
-     "plaid": 1.0,
-     "restoreBritain": 5.0,
-     "others": 1.0
-    }
-   },
-   {
     "pollster": "Trajectory Partnership",
     "client": "N/A",
     "start": "2026-10-05",
@@ -2120,19 +2120,36 @@
    "scotland": {
     "source": "Opinion polling in Scotland for the next United Kingdom general election, Wikipedia (CC BY-SA 4.0), from the pollsters' published figures",
     "sourceURL": "https://en.wikipedia.org/wiki/Opinion_polling_in_Scotland_for_the_next_United_Kingdom_general_election",
-    "method": "The latest Scottish poll from each pollster with fieldwork ending in the 60 days to 14 October 2026, averaged with equal weight.",
-    "from": "2026-08-16",
-    "to": "2026-10-14",
+    "method": "The latest Scottish poll from each pollster with fieldwork ending in the 60 days to 23 October 2026, averaged with equal weight.",
+    "from": "2026-08-25",
+    "to": "2026-10-23",
     "average": {
-     "labour": 20.6,
-     "conservative": 12.6,
-     "reform": 16.9,
-     "libDem": 8.6,
-     "green": 6.0,
-     "snp": 30.6,
-     "others": 4.7
+     "labour": 21.7,
+     "conservative": 12.7,
+     "reform": 17.1,
+     "libDem": 7.7,
+     "green": 5.7,
+     "snp": 30.8,
+     "others": 4.3
     },
     "polls": [
+     {
+      "pollster": "Norstat",
+      "client": "The Sunday Times",
+      "start": "2026-10-20",
+      "end": "2026-10-23",
+      "area": "",
+      "sample": 1000,
+      "shares": {
+       "labour": 21.0,
+       "conservative": 13.0,
+       "reform": 15.0,
+       "libDem": 6.0,
+       "green": 7.0,
+       "snp": 32.0,
+       "others": 5.0
+      }
+     },
      {
       "pollster": "Survation",
       "client": "Fore Energy Ltd.",
@@ -2164,23 +2181,6 @@
        "libDem": 8.0,
        "green": 3.0,
        "snp": 30.0,
-       "others": 6.0
-      }
-     },
-     {
-      "pollster": "Norstat",
-      "client": "Belive in Scotland",
-      "start": "2026-09-15",
-      "end": "2026-09-18",
-      "area": "",
-      "sample": 1001,
-      "shares": {
-       "labour": 18.0,
-       "conservative": 13.0,
-       "reform": 15.0,
-       "libDem": 9.0,
-       "green": 8.0,
-       "snp": 32.0,
        "others": 6.0
       }
      }
