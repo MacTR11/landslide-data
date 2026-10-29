@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-28T22:41:17Z",
+ "generated": "2026-10-29T13:16:28Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -2124,13 +2124,13 @@
     "from": "2026-08-25",
     "to": "2026-10-23",
     "average": {
-     "labour": 21.7,
-     "conservative": 12.7,
-     "reform": 17.1,
-     "libDem": 7.7,
-     "green": 5.7,
-     "snp": 30.8,
-     "others": 4.3
+     "labour": 22.1,
+     "conservative": 11.8,
+     "reform": 17.8,
+     "libDem": 7.3,
+     "green": 6.3,
+     "snp": 31.1,
+     "others": 3.6
     },
     "polls": [
      {
@@ -2182,6 +2182,23 @@
        "green": 3.0,
        "snp": 30.0,
        "others": 6.0
+      }
+     },
+     {
+      "pollster": "Public First",
+      "client": "Adura",
+      "start": "2026-10-08",
+      "end": "2026-10-10",
+      "area": "",
+      "sample": 406,
+      "shares": {
+       "labour": 23.0,
+       "conservative": 9.0,
+       "reform": 20.0,
+       "libDem": 6.0,
+       "green": 8.0,
+       "snp": 32.0,
+       "others": 2.0
       }
      }
     ]
