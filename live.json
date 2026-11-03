@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-03T01:04:43Z",
+ "generated": "2026-11-03T14:27:41Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1971,32 +1971,71 @@
   "from": "2026-10-20",
   "to": "2026-11-02",
   "average": {
-   "labour": 28.9,
-   "conservative": 21.8,
+   "labour": 28.7,
+   "conservative": 21.9,
    "reform": 21.4,
    "libDem": 9.3,
-   "green": 8.4,
+   "green": 8.6,
    "snp": 2.4,
-   "plaid": 1.0,
-   "restoreBritain": 4.2,
+   "plaid": 1.1,
+   "restoreBritain": 3.9,
    "yourParty": 0.0,
-   "others": 2.6
+   "others": 2.7
   },
   "polls": [
+   {
+    "pollster": "YouGov",
+    "client": "The Times/Sky News",
+    "start": "2026-11-01",
+    "end": "2026-11-02",
+    "area": "GB",
+    "sample": 2355,
+    "shares": {
+     "labour": 26.0,
+     "conservative": 24.0,
+     "reform": 21.0,
+     "libDem": 11.0,
+     "green": 10.0,
+     "snp": 3.0,
+     "plaid": 2.0,
+     "restoreBritain": 3.0,
+     "others": 1.0,
+     "yourParty": 0.0
+    }
+   },
    {
     "pollster": "Deltapoll",
     "client": "N/A",
     "start": "2026-10-30",
     "end": "2026-11-02",
     "area": "GB",
-    "sample": null,
+    "sample": 2215,
     "shares": {
      "labour": 30.0,
      "conservative": 23.0,
      "reform": 25.0,
      "libDem": 7.0,
      "green": 8.0,
-     "snp": 3.0
+     "snp": 3.0,
+     "plaid": 1.0,
+     "others": 4.0
+    }
+   },
+   {
+    "pollster": "Freshwater Strategy",
+    "client": "City AM",
+    "start": "2026-10-30",
+    "end": "2026-11-01",
+    "area": "GB",
+    "sample": 1219,
+    "shares": {
+     "labour": 30.0,
+     "conservative": 22.0,
+     "reform": 22.0,
+     "libDem": 10.0,
+     "green": 10.0,
+     "snp": 2.0,
+     "others": 3.0
     }
    },
    {
@@ -2052,26 +2091,6 @@
      "plaid": 1.0,
      "restoreBritain": 5.0,
      "others": 2.0
-    }
-   },
-   {
-    "pollster": "YouGov",
-    "client": "The Times/Sky News",
-    "start": "2026-10-25",
-    "end": "2026-10-26",
-    "area": "GB",
-    "sample": 2271,
-    "shares": {
-     "labour": 27.0,
-     "conservative": 22.0,
-     "reform": 20.0,
-     "libDem": 11.0,
-     "green": 10.0,
-     "snp": 2.0,
-     "plaid": 1.0,
-     "restoreBritain": 4.0,
-     "others": 2.0,
-     "yourParty": 0.0
     }
    },
    {
