@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-02T16:12:19Z",
+ "generated": "2026-11-03T01:04:43Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1798,7 +1798,7 @@
     "party": "labour"
    },
    "Upper Bann": {
-    "party": "dup"
+    "party": "independent"
    },
    "Uxbridge and South Ruislip": {
     "party": "labour"
@@ -1967,22 +1967,38 @@
  "polls": {
   "source": "Opinion polling for the next United Kingdom general election, Wikipedia (CC BY-SA 4.0), from the pollsters' published figures",
   "sourceURL": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
-  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 30 October 2026, averaged with equal weight.",
-  "from": "2026-10-17",
-  "to": "2026-10-30",
+  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 2 November 2026, averaged with equal weight.",
+  "from": "2026-10-20",
+  "to": "2026-11-02",
   "average": {
-   "labour": 29.2,
-   "conservative": 21.5,
-   "reform": 21.3,
+   "labour": 28.9,
+   "conservative": 21.8,
+   "reform": 21.4,
    "libDem": 9.3,
    "green": 8.4,
-   "snp": 2.5,
+   "snp": 2.4,
    "plaid": 1.0,
    "restoreBritain": 4.2,
    "yourParty": 0.0,
    "others": 2.6
   },
   "polls": [
+   {
+    "pollster": "Deltapoll",
+    "client": "N/A",
+    "start": "2026-10-30",
+    "end": "2026-11-02",
+    "area": "GB",
+    "sample": null,
+    "shares": {
+     "labour": 30.0,
+     "conservative": 23.0,
+     "reform": 25.0,
+     "libDem": 7.0,
+     "green": 8.0,
+     "snp": 3.0
+    }
+   },
    {
     "pollster": "Opinium",
     "client": "The Observer",
@@ -2075,24 +2091,6 @@
      "plaid": 1.0,
      "restoreBritain": 5.0,
      "others": 1.0
-    }
-   },
-   {
-    "pollster": "Deltapoll",
-    "client": "N/A",
-    "start": "2026-10-23",
-    "end": "2026-10-26",
-    "area": "GB",
-    "sample": 1932,
-    "shares": {
-     "labour": 32.0,
-     "conservative": 21.0,
-     "reform": 25.0,
-     "libDem": 7.0,
-     "green": 8.0,
-     "snp": 4.0,
-     "plaid": 1.0,
-     "others": 3.0
     }
    },
    {
