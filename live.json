@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-06T14:24:06Z",
+ "generated": "2026-11-08T13:36:31Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1967,22 +1967,40 @@
  "polls": {
   "source": "Opinion polling for the next United Kingdom general election, Wikipedia (CC BY-SA 4.0), from the pollsters' published figures",
   "sourceURL": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
-  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 4 November 2026, averaged with equal weight.",
-  "from": "2026-10-22",
-  "to": "2026-11-04",
+  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 6 November 2026, averaged with equal weight.",
+  "from": "2026-10-24",
+  "to": "2026-11-06",
   "average": {
-   "labour": 28.9,
-   "conservative": 21.8,
-   "reform": 21.3,
-   "libDem": 8.8,
-   "green": 9.0,
-   "snp": 2.3,
+   "labour": 28.3,
+   "conservative": 21.9,
+   "reform": 20.8,
+   "libDem": 8.5,
+   "green": 9.5,
+   "snp": 2.4,
    "plaid": 1.1,
-   "restoreBritain": 3.9,
+   "restoreBritain": 4.2,
    "yourParty": 0.0,
-   "others": 2.9
+   "others": 3.3
   },
   "polls": [
+   {
+    "pollster": "Opinium",
+    "client": "The Observer",
+    "start": "2026-11-04",
+    "end": "2026-11-06",
+    "area": "GB",
+    "sample": 2050,
+    "shares": {
+     "labour": 28.0,
+     "conservative": 20.0,
+     "reform": 21.0,
+     "libDem": 10.0,
+     "green": 11.0,
+     "snp": 3.0,
+     "plaid": 1.0,
+     "others": 5.0
+    }
+   },
    {
     "pollster": "Find Out Now",
     "client": "N/A",
@@ -2040,6 +2058,24 @@
     }
    },
    {
+    "pollster": "Lord Ashcroft Polls",
+    "client": "N/A",
+    "start": "2026-10-29",
+    "end": "2026-11-02",
+    "area": "GB",
+    "sample": 5253,
+    "shares": {
+     "labour": 31.0,
+     "conservative": 26.0,
+     "reform": 18.0,
+     "libDem": 7.0,
+     "green": 10.0,
+     "snp": 3.0,
+     "plaid": 1.0,
+     "others": 5.0
+    }
+   },
+   {
     "pollster": "More in Common",
     "client": "N/A",
     "start": "2026-10-31",
@@ -2076,24 +2112,6 @@
     }
    },
    {
-    "pollster": "Opinium",
-    "client": "The Observer",
-    "start": "2026-10-28",
-    "end": "2026-10-30",
-    "area": "GB",
-    "sample": 1523,
-    "shares": {
-     "labour": 30.0,
-     "conservative": 20.0,
-     "reform": 22.0,
-     "libDem": 10.0,
-     "green": 8.0,
-     "snp": 3.0,
-     "plaid": 1.0,
-     "others": 5.0
-    }
-   },
-   {
     "pollster": "BMG Research",
     "client": "The i Paper",
     "start": "2026-10-28",
@@ -2110,25 +2128,6 @@
      "plaid": 1.0,
      "restoreBritain": 5.0,
      "others": 2.0
-    }
-   },
-   {
-    "pollster": "Ipsos",
-    "client": "N/A",
-    "start": "2026-10-15",
-    "end": "2026-10-22",
-    "area": "GB",
-    "sample": 1100,
-    "shares": {
-     "labour": 32.0,
-     "conservative": 24.0,
-     "reform": 20.0,
-     "libDem": 9.0,
-     "green": 8.0,
-     "snp": 2.0,
-     "plaid": 1.0,
-     "restoreBritain": 3.0,
-     "others": 0.0
     }
    }
   ],
