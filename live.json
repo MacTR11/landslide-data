@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-08T13:36:31Z",
+ "generated": "2026-11-10T01:37:47Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1967,14 +1967,14 @@
  "polls": {
   "source": "Opinion polling for the next United Kingdom general election, Wikipedia (CC BY-SA 4.0), from the pollsters' published figures",
   "sourceURL": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
-  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 6 November 2026, averaged with equal weight.",
-  "from": "2026-10-24",
-  "to": "2026-11-06",
+  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 9 November 2026, averaged with equal weight.",
+  "from": "2026-10-27",
+  "to": "2026-11-09",
   "average": {
-   "labour": 28.3,
-   "conservative": 21.9,
-   "reform": 20.8,
-   "libDem": 8.5,
+   "labour": 28.5,
+   "conservative": 21.5,
+   "reform": 20.7,
+   "libDem": 8.8,
    "green": 9.5,
    "snp": 2.4,
    "plaid": 1.1,
@@ -1983,6 +1983,22 @@
    "others": 3.3
   },
   "polls": [
+   {
+    "pollster": "Deltapoll",
+    "client": "N/A",
+    "start": "2026-11-06",
+    "end": "2026-11-09",
+    "area": "GB",
+    "sample": null,
+    "shares": {
+     "labour": 31.0,
+     "conservative": 20.0,
+     "reform": 24.0,
+     "libDem": 9.0,
+     "green": 8.0,
+     "snp": 3.0
+    }
+   },
    {
     "pollster": "Opinium",
     "client": "The Observer",
@@ -2037,24 +2053,6 @@
      "restoreBritain": 3.0,
      "others": 1.0,
      "yourParty": 0.0
-    }
-   },
-   {
-    "pollster": "Deltapoll",
-    "client": "N/A",
-    "start": "2026-10-30",
-    "end": "2026-11-02",
-    "area": "GB",
-    "sample": 2215,
-    "shares": {
-     "labour": 30.0,
-     "conservative": 23.0,
-     "reform": 25.0,
-     "libDem": 7.0,
-     "green": 8.0,
-     "snp": 3.0,
-     "plaid": 1.0,
-     "others": 4.0
     }
    },
    {
