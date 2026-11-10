@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-10T01:37:47Z",
+ "generated": "2026-11-10T15:01:07Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1972,31 +1972,71 @@
   "to": "2026-11-09",
   "average": {
    "labour": 28.5,
-   "conservative": 21.5,
-   "reform": 20.7,
-   "libDem": 8.8,
-   "green": 9.5,
-   "snp": 2.4,
-   "plaid": 1.1,
-   "restoreBritain": 4.2,
+   "conservative": 21.4,
+   "reform": 20.3,
+   "libDem": 8.9,
+   "green": 9.4,
+   "snp": 2.6,
+   "plaid": 1.0,
+   "restoreBritain": 4.5,
    "yourParty": 0.0,
-   "others": 3.3
+   "others": 3.4
   },
   "polls": [
+   {
+    "pollster": "YouGov",
+    "client": "The Times/Sky News",
+    "start": "2026-11-08",
+    "end": "2026-11-09",
+    "area": "GB",
+    "sample": 2437,
+    "shares": {
+     "labour": 27.0,
+     "conservative": 21.0,
+     "reform": 20.0,
+     "libDem": 12.0,
+     "green": 10.0,
+     "snp": 3.0,
+     "plaid": 1.0,
+     "restoreBritain": 3.0,
+     "others": 2.0,
+     "yourParty": 0.0
+    }
+   },
+   {
+    "pollster": "More in Common",
+    "client": "The Daily Telegraph",
+    "start": "2026-11-06",
+    "end": "2026-11-09",
+    "area": "GB",
+    "sample": 2013,
+    "shares": {
+     "labour": 28.0,
+     "conservative": 25.0,
+     "reform": 20.0,
+     "libDem": 9.0,
+     "green": 7.0,
+     "snp": 3.0,
+     "restoreBritain": 6.0,
+     "others": 1.0
+    }
+   },
    {
     "pollster": "Deltapoll",
     "client": "N/A",
     "start": "2026-11-06",
     "end": "2026-11-09",
     "area": "GB",
-    "sample": null,
+    "sample": 2023,
     "shares": {
      "labour": 31.0,
      "conservative": 20.0,
      "reform": 24.0,
      "libDem": 9.0,
      "green": 8.0,
-     "snp": 3.0
+     "snp": 3.0,
+     "plaid": 1.0,
+     "others": 4.0
     }
    },
    {
@@ -2036,26 +2076,6 @@
     }
    },
    {
-    "pollster": "YouGov",
-    "client": "The Times/Sky News",
-    "start": "2026-11-01",
-    "end": "2026-11-02",
-    "area": "GB",
-    "sample": 2355,
-    "shares": {
-     "labour": 26.0,
-     "conservative": 24.0,
-     "reform": 21.0,
-     "libDem": 11.0,
-     "green": 10.0,
-     "snp": 3.0,
-     "plaid": 2.0,
-     "restoreBritain": 3.0,
-     "others": 1.0,
-     "yourParty": 0.0
-    }
-   },
-   {
     "pollster": "Lord Ashcroft Polls",
     "client": "N/A",
     "start": "2026-10-29",
@@ -2071,25 +2091,6 @@
      "snp": 3.0,
      "plaid": 1.0,
      "others": 5.0
-    }
-   },
-   {
-    "pollster": "More in Common",
-    "client": "N/A",
-    "start": "2026-10-31",
-    "end": "2026-11-01",
-    "area": "GB",
-    "sample": 2602,
-    "shares": {
-     "labour": 29.0,
-     "conservative": 23.0,
-     "reform": 22.0,
-     "libDem": 9.0,
-     "green": 8.0,
-     "snp": 2.0,
-     "plaid": 1.0,
-     "restoreBritain": 5.0,
-     "others": 1.0
     }
    },
    {
