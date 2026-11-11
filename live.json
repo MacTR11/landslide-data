@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-10T15:01:07Z",
+ "generated": "2026-11-11T14:32:41Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -2017,6 +2017,7 @@
      "libDem": 9.0,
      "green": 7.0,
      "snp": 3.0,
+     "plaid": 1.0,
      "restoreBritain": 6.0,
      "others": 1.0
     }
