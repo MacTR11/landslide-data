@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-11T14:32:41Z",
+ "generated": "2026-11-12T23:42:05Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1967,22 +1967,39 @@
  "polls": {
   "source": "Opinion polling for the next United Kingdom general election, Wikipedia (CC BY-SA 4.0), from the pollsters' published figures",
   "sourceURL": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
-  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 9 November 2026, averaged with equal weight.",
-  "from": "2026-10-27",
-  "to": "2026-11-09",
+  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 12 November 2026, averaged with equal weight.",
+  "from": "2026-10-30",
+  "to": "2026-11-12",
   "average": {
-   "labour": 28.5,
-   "conservative": 21.4,
-   "reform": 20.3,
-   "libDem": 8.9,
-   "green": 9.4,
-   "snp": 2.6,
+   "labour": 28.4,
+   "conservative": 21.6,
+   "reform": 20.6,
+   "libDem": 9.2,
+   "green": 9.3,
+   "snp": 2.7,
    "plaid": 1.0,
-   "restoreBritain": 4.5,
+   "restoreBritain": 3.6,
    "yourParty": 0.0,
-   "others": 3.4
+   "others": 3.6
   },
   "polls": [
+   {
+    "pollster": "Survation",
+    "client": "N/A",
+    "start": "2026-11-11",
+    "end": "2026-11-12",
+    "area": "UK",
+    "sample": null,
+    "shares": {
+     "labour": 29.0,
+     "conservative": 21.0,
+     "reform": 23.0,
+     "libDem": 10.0,
+     "green": 7.0,
+     "snp": 3.0,
+     "restoreBritain": 2.0
+    }
+   },
    {
     "pollster": "YouGov",
     "client": "The Times/Sky News",
@@ -2109,25 +2126,6 @@
      "green": 10.0,
      "snp": 2.0,
      "others": 3.0
-    }
-   },
-   {
-    "pollster": "BMG Research",
-    "client": "The i Paper",
-    "start": "2026-10-28",
-    "end": "2026-10-29",
-    "area": "GB",
-    "sample": 1529,
-    "shares": {
-     "labour": 31.0,
-     "conservative": 21.0,
-     "reform": 22.0,
-     "libDem": 8.0,
-     "green": 8.0,
-     "snp": 2.0,
-     "plaid": 1.0,
-     "restoreBritain": 5.0,
-     "others": 2.0
     }
    }
   ],
