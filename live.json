@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-13T14:42:20Z",
+ "generated": "2026-11-13T23:40:35Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1972,13 +1972,13 @@
   "to": "2026-11-12",
   "average": {
    "labour": 28.2,
-   "conservative": 21.5,
-   "reform": 20.6,
-   "libDem": 9.3,
-   "green": 9.2,
+   "conservative": 21.4,
+   "reform": 20.4,
+   "libDem": 9.5,
+   "green": 9.0,
    "snp": 2.8,
    "plaid": 1.0,
-   "restoreBritain": 3.6,
+   "restoreBritain": 3.9,
    "yourParty": 0.0,
    "others": 3.8
   },
@@ -2016,6 +2016,23 @@
      "green": 7.0,
      "snp": 3.0,
      "restoreBritain": 2.0
+    }
+   },
+   {
+    "pollster": "Trajectory Partnership",
+    "client": "N/A",
+    "start": "2026-11-03",
+    "end": "2026-11-12",
+    "area": "GB",
+    "sample": null,
+    "shares": {
+     "labour": 29.0,
+     "conservative": 21.0,
+     "reform": 19.0,
+     "libDem": 12.0,
+     "green": 8.0,
+     "snp": 3.0,
+     "restoreBritain": 5.0
     }
    },
    {
