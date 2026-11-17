@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-17T01:53:59Z",
+ "generated": "2026-11-17T16:11:56Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1972,17 +1972,37 @@
   "to": "2026-11-16",
   "average": {
    "labour": 27.8,
-   "conservative": 21.2,
-   "reform": 20.8,
-   "libDem": 9.6,
-   "green": 8.8,
+   "conservative": 21.5,
+   "reform": 20.9,
+   "libDem": 9.5,
+   "green": 8.6,
    "snp": 2.9,
    "plaid": 1.0,
    "restoreBritain": 3.9,
    "yourParty": 0.5,
-   "others": 3.5
+   "others": 3.4
   },
   "polls": [
+   {
+    "pollster": "YouGov",
+    "client": "The Times/Sky News",
+    "start": "2026-11-15",
+    "end": "2026-11-16",
+    "area": "GB",
+    "sample": 2252,
+    "shares": {
+     "labour": 27.0,
+     "conservative": 23.0,
+     "reform": 21.0,
+     "libDem": 11.0,
+     "green": 9.0,
+     "snp": 3.0,
+     "plaid": 1.0,
+     "restoreBritain": 3.0,
+     "others": 2.0,
+     "yourParty": 0.0
+    }
+   },
    {
     "pollster": "Deltapoll",
     "client": "N/A",
@@ -2025,7 +2045,7 @@
     "start": "2026-11-11",
     "end": "2026-11-12",
     "area": "UK",
-    "sample": null,
+    "sample": 2005,
     "shares": {
      "labour": 29.0,
      "conservative": 21.0,
@@ -2033,7 +2053,9 @@
      "libDem": 10.0,
      "green": 7.0,
      "snp": 3.0,
-     "restoreBritain": 2.0
+     "plaid": 1.0,
+     "restoreBritain": 2.0,
+     "others": 4.0
     }
    },
    {
@@ -2054,26 +2076,6 @@
      "restoreBritain": 5.0,
      "others": 2.0,
      "yourParty": 1.0
-    }
-   },
-   {
-    "pollster": "YouGov",
-    "client": "The Times/Sky News",
-    "start": "2026-11-08",
-    "end": "2026-11-09",
-    "area": "GB",
-    "sample": 2437,
-    "shares": {
-     "labour": 27.0,
-     "conservative": 21.0,
-     "reform": 20.0,
-     "libDem": 12.0,
-     "green": 10.0,
-     "snp": 3.0,
-     "plaid": 1.0,
-     "restoreBritain": 3.0,
-     "others": 2.0,
-     "yourParty": 0.0
     }
    },
    {
