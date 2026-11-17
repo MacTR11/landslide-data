@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-14T22:32:21Z",
+ "generated": "2026-11-17T01:53:59Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1967,22 +1967,40 @@
  "polls": {
   "source": "Opinion polling for the next United Kingdom general election, Wikipedia (CC BY-SA 4.0), from the pollsters' published figures",
   "sourceURL": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
-  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 12 November 2026, averaged with equal weight.",
-  "from": "2026-10-30",
-  "to": "2026-11-12",
+  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 16 November 2026, averaged with equal weight.",
+  "from": "2026-11-03",
+  "to": "2026-11-16",
   "average": {
-   "labour": 28.1,
-   "conservative": 21.3,
-   "reform": 20.3,
-   "libDem": 9.5,
-   "green": 9.0,
-   "snp": 2.8,
+   "labour": 27.8,
+   "conservative": 21.2,
+   "reform": 20.8,
+   "libDem": 9.6,
+   "green": 8.8,
+   "snp": 2.9,
    "plaid": 1.0,
    "restoreBritain": 3.9,
    "yourParty": 0.5,
-   "others": 3.6
+   "others": 3.5
   },
   "polls": [
+   {
+    "pollster": "Deltapoll",
+    "client": "N/A",
+    "start": "2026-11-13",
+    "end": "2026-11-16",
+    "area": "GB",
+    "sample": 2026,
+    "shares": {
+     "labour": 31.0,
+     "conservative": 23.0,
+     "reform": 25.0,
+     "libDem": 7.0,
+     "green": 8.0,
+     "snp": 3.0,
+     "plaid": 1.0,
+     "others": 3.0
+    }
+   },
    {
     "pollster": "Find Out Now",
     "client": "N/A",
@@ -2078,24 +2096,6 @@
     }
    },
    {
-    "pollster": "Deltapoll",
-    "client": "N/A",
-    "start": "2026-11-06",
-    "end": "2026-11-09",
-    "area": "GB",
-    "sample": 2023,
-    "shares": {
-     "labour": 31.0,
-     "conservative": 20.0,
-     "reform": 24.0,
-     "libDem": 9.0,
-     "green": 8.0,
-     "snp": 3.0,
-     "plaid": 1.0,
-     "others": 4.0
-    }
-   },
-   {
     "pollster": "Opinium",
     "client": "The Observer",
     "start": "2026-11-04",
@@ -2111,41 +2111,6 @@
      "snp": 3.0,
      "plaid": 1.0,
      "others": 5.0
-    }
-   },
-   {
-    "pollster": "Lord Ashcroft Polls",
-    "client": "N/A",
-    "start": "2026-10-29",
-    "end": "2026-11-02",
-    "area": "GB",
-    "sample": 5253,
-    "shares": {
-     "labour": 31.0,
-     "conservative": 26.0,
-     "reform": 18.0,
-     "libDem": 7.0,
-     "green": 10.0,
-     "snp": 3.0,
-     "plaid": 1.0,
-     "others": 5.0
-    }
-   },
-   {
-    "pollster": "Freshwater Strategy",
-    "client": "City AM",
-    "start": "2026-10-30",
-    "end": "2026-11-01",
-    "area": "GB",
-    "sample": 1219,
-    "shares": {
-     "labour": 30.0,
-     "conservative": 22.0,
-     "reform": 22.0,
-     "libDem": 10.0,
-     "green": 10.0,
-     "snp": 2.0,
-     "others": 3.0
     }
    }
   ],
