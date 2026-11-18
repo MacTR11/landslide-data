@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-17T16:11:56Z",
+ "generated": "2026-11-18T15:47:46Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1971,14 +1971,14 @@
   "from": "2026-11-03",
   "to": "2026-11-16",
   "average": {
-   "labour": 27.8,
+   "labour": 27.9,
    "conservative": 21.5,
-   "reform": 20.9,
+   "reform": 20.8,
    "libDem": 9.5,
-   "green": 8.6,
+   "green": 8.8,
    "snp": 2.9,
    "plaid": 1.0,
-   "restoreBritain": 3.9,
+   "restoreBritain": 3.7,
    "yourParty": 0.5,
    "others": 3.4
   },
@@ -2019,6 +2019,25 @@
      "snp": 3.0,
      "plaid": 1.0,
      "others": 3.0
+    }
+   },
+   {
+    "pollster": "More in Common",
+    "client": "The Daily Telegraph",
+    "start": "2026-11-13",
+    "end": "2026-11-15",
+    "area": "GB",
+    "sample": 2134,
+    "shares": {
+     "labour": 29.0,
+     "conservative": 25.0,
+     "reform": 19.0,
+     "libDem": 9.0,
+     "green": 8.0,
+     "snp": 3.0,
+     "plaid": 1.0,
+     "restoreBritain": 5.0,
+     "others": 1.0
     }
    },
    {
@@ -2076,25 +2095,6 @@
      "restoreBritain": 5.0,
      "others": 2.0,
      "yourParty": 1.0
-    }
-   },
-   {
-    "pollster": "More in Common",
-    "client": "The Daily Telegraph",
-    "start": "2026-11-06",
-    "end": "2026-11-09",
-    "area": "GB",
-    "sample": 2013,
-    "shares": {
-     "labour": 28.0,
-     "conservative": 25.0,
-     "reform": 20.0,
-     "libDem": 9.0,
-     "green": 7.0,
-     "snp": 3.0,
-     "plaid": 1.0,
-     "restoreBritain": 6.0,
-     "others": 1.0
     }
    },
    {
