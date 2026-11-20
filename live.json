@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-18T15:47:46Z",
+ "generated": "2026-11-20T15:36:04Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -1967,22 +1967,40 @@
  "polls": {
   "source": "Opinion polling for the next United Kingdom general election, Wikipedia (CC BY-SA 4.0), from the pollsters' published figures",
   "sourceURL": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election",
-  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 16 November 2026, averaged with equal weight.",
-  "from": "2026-11-03",
-  "to": "2026-11-16",
+  "method": "The latest Great Britain poll from each pollster with fieldwork ending in the 14 days to 19 November 2026, averaged with equal weight.",
+  "from": "2026-11-06",
+  "to": "2026-11-19",
   "average": {
    "labour": 27.9,
    "conservative": 21.5,
    "reform": 20.8,
    "libDem": 9.5,
-   "green": 8.8,
+   "green": 8.7,
    "snp": 2.9,
-   "plaid": 1.0,
+   "plaid": 1.1,
    "restoreBritain": 3.7,
    "yourParty": 0.5,
    "others": 3.4
   },
   "polls": [
+   {
+    "pollster": "Find Out Now",
+    "client": "N/A",
+    "start": "2026-11-18",
+    "end": "2026-11-19",
+    "area": "GB",
+    "sample": 2941,
+    "shares": {
+     "labour": 27.0,
+     "conservative": 21.0,
+     "reform": 21.0,
+     "libDem": 9.0,
+     "green": 11.0,
+     "snp": 3.0,
+     "plaid": 2.0,
+     "others": 7.0
+    }
+   },
    {
     "pollster": "YouGov",
     "client": "The Times/Sky News",
@@ -2038,24 +2056,6 @@
      "plaid": 1.0,
      "restoreBritain": 5.0,
      "others": 1.0
-    }
-   },
-   {
-    "pollster": "Find Out Now",
-    "client": "N/A",
-    "start": "2026-11-11",
-    "end": "2026-11-12",
-    "area": "GB",
-    "sample": 2641,
-    "shares": {
-     "labour": 27.0,
-     "conservative": 21.0,
-     "reform": 21.0,
-     "libDem": 9.0,
-     "green": 12.0,
-     "snp": 3.0,
-     "plaid": 1.0,
-     "others": 7.0
     }
    },
    {
