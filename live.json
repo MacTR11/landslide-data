@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-20T15:36:04Z",
+ "generated": "2026-11-21T14:45:54Z",
  "seats": {
   "source": "UK Parliament Members API",
   "licence": "Contains Parliamentary information licensed under the Open Parliament Licence v3.0",
@@ -2041,7 +2041,7 @@
    },
    {
     "pollster": "More in Common",
-    "client": "The Daily Telegraph",
+    "client": "N/A",
     "start": "2026-11-13",
     "end": "2026-11-15",
     "area": "GB",
